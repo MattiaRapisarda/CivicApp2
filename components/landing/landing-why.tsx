@@ -46,7 +46,7 @@ export function LandingWhy() {
                     </div>
 
                     <aside className="landing-panel-light">
-                        <p className="text-sm font-semibold text-[color:var(--color-info-600)]">
+                        <p className="text-sm font-semibold text-(--color-info-600)">
                             In sintesi
                         </p>
 

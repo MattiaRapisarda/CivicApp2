@@ -7,7 +7,7 @@ export function LandingHero() {
             <div className="landing-hero-glow" aria-hidden="true" />
 
             <div className="landing-container landing-hero-content">
-                <div className="max-w-[52rem]">
+                <div className="max-w-208">
                     <div className="landing-badge mb-5">
                         <Sparkles className="h-4 w-4 text-primary" />
                         <span>CivicApp · piattaforma civica digitale</span>
